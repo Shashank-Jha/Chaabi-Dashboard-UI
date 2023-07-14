@@ -1,0 +1,4 @@
+.bar-chart-headings{
+    display: flex;
+    justify-content: space-between;
+}

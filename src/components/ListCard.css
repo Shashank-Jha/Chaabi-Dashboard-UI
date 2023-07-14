@@ -1,0 +1,35 @@
+.sub-head-container{
+    display: flex;
+    margin-top: 0.5rem;
+}
+
+.sub-head-container > svg{
+    color: green;
+    width: 1rem;
+}
+
+.sub-head-text{
+    color:grey;
+} 
+
+.list-heading{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap:0.3rem;
+}
+
+.list-heading > svg{
+    color: var(--blue);
+    width: 1.5rem;
+}
+
+.list-details{
+    font-size: 0.8rem;
+    color: grey;
+    border: 0;
+    border-left: 2px solid lightsteelblue;
+    padding-left: 1rem;
+    margin-left: 0.7rem;
+}

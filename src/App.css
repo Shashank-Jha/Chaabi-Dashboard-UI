@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+}
+
+.area-chart-container{
+    display: flex;
+    justify-content: start;
+}
+
+.chart-level-2{
+    display: flex;
+    justify-content: start;
+}
+
+.bar-chart-container{
+    width:100%;
+
+}
+
+.chart-level-3{
+    display: flex;
+    justify-content: start;
+}

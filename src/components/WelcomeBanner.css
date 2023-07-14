@@ -1,0 +1,20 @@
+.banner-container{
+    margin: 0;
+    color: white;
+    background-color: var(--blue);
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    background-image: radial-gradient(at 50% bottom ,#0737AB, #0000); 
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+}
+
+.banner-container > h1{
+    margin: 0;
+    padding: 1rem;
+    padding-left: 1.5rem;
+}
+
+.banner-container > div{
+    padding: 0rem 1rem 1rem 1.5rem ;
+}
